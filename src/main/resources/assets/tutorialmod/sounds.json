@@ -1,0 +1,10 @@
+{
+  "eid_takbir": {
+    "sounds": [
+      {
+        "name": "tutorialmod:eid_takbir",
+        "stream": true
+      }
+    ]
+  }
+}
