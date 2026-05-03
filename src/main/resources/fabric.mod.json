@@ -11,21 +11,19 @@
     "homepage": "https://friedegg796.github.io/muslimdiscs-modpage/",
     "sources": "https://github.com/friedegg796/Muslimdiscs"
   },
-  "license": "MIT",
+  "license": "ARR",
   "icon": "assets/tutorialmod/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.awanderingmuslim.tutorialmod.TutorialMod"
+      "net.awanderingmuslim.tutorialmod.Muslimdiscs"
     ],
     "fabric-datagen": [
-      "net.awanderingmuslim.tutorialmod.TutorialModDataGenerator"
+      "net.awanderingmuslim.tutorialmod.MuslimdiscsDataGenerator"
     ],
     "client": [
-      "net.awanderingmuslim.tutorialmod.TutorialModClient"
     ],
     "rei_client": [
-      "net.awanderingmuslim.tutorialmod.compat.TutorialModREIClient"
     ]
   },
   "mixins": [

@@ -1,6 +1,6 @@
 package net.awanderingmuslim.tutorialmod.item;
 
-import net.awanderingmuslim.tutorialmod.TutorialMod;
+import net.awanderingmuslim.tutorialmod.Muslimdiscs;
 import net.awanderingmuslim.tutorialmod.sound.ModSounds;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
@@ -19,12 +19,12 @@ public class ModItems {
 
 
     private static Item registerItem(String name, Function<Item.Settings, Item> function) {
-        return Registry.register(Registries.ITEM, Identifier.of(TutorialMod.MOD_ID, name),
-                function.apply(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(TutorialMod.MOD_ID, name)))));
+        return Registry.register(Registries.ITEM, Identifier.of(Muslimdiscs.MOD_ID, name),
+                function.apply(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(Muslimdiscs.MOD_ID, name)))));
     }
 
     public static void registerModItems() {
-        TutorialMod.LOGGER.info("Registering Mod Items for " + TutorialMod.MOD_ID);
+        Muslimdiscs.LOGGER.info("Registering Mod Items for " + Muslimdiscs.MOD_ID);
 
     }
 }

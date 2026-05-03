@@ -1,6 +1,6 @@
 package net.awanderingmuslim.tutorialmod.sound;
 
-import net.awanderingmuslim.tutorialmod.TutorialMod;
+import net.awanderingmuslim.tutorialmod.Muslimdiscs;
 import net.minecraft.block.jukebox.JukeboxSong;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -13,15 +13,15 @@ public class ModSounds {
 
     public static final SoundEvent EID_TAKBIR = registerSoundEvent("eid_takbir");
     public static final RegistryKey<JukeboxSong> EID_TAKBIR_KEY =
-            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(TutorialMod.MOD_ID, "eid_takbir"));
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Muslimdiscs.MOD_ID, "eid_takbir"));
 
 
     private static SoundEvent registerSoundEvent(String name) {
-        Identifier id = Identifier.of(TutorialMod.MOD_ID, name);
+        Identifier id = Identifier.of(Muslimdiscs.MOD_ID, name);
         return Registry.register(Registries.SOUND_EVENT, id, SoundEvent.of(id));
     }
 
     public static void registerSounds() {
-        TutorialMod.LOGGER.info("Registering Mod Sounds for " + TutorialMod.MOD_ID);
+        Muslimdiscs.LOGGER.info("Registering Mod Sounds for " + Muslimdiscs.MOD_ID);
     }
 }
