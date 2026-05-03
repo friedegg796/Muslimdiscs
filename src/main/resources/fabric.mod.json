@@ -16,16 +16,16 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.kaupenjoe.tutorialmod.TutorialMod"
+      "net.awanderingmuslim.tutorialmod.TutorialMod"
     ],
     "fabric-datagen": [
-      "net.kaupenjoe.tutorialmod.TutorialModDataGenerator"
+      "net.awanderingmuslim.tutorialmod.TutorialModDataGenerator"
     ],
     "client": [
-      "net.kaupenjoe.tutorialmod.TutorialModClient"
+      "net.awanderingmuslim.tutorialmod.TutorialModClient"
     ],
     "rei_client": [
-      "net.kaupenjoe.tutorialmod.compat.TutorialModREIClient"
+      "net.awanderingmuslim.tutorialmod.compat.TutorialModREIClient"
     ]
   },
   "mixins": [

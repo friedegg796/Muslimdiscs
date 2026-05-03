@@ -1,7 +1,7 @@
-package net.kaupenjoe.tutorialmod.item;
+package net.awanderingmuslim.tutorialmod.item;
 
-import net.kaupenjoe.tutorialmod.TutorialMod;
-import net.kaupenjoe.tutorialmod.sound.ModSounds;
+import net.awanderingmuslim.tutorialmod.TutorialMod;
+import net.awanderingmuslim.tutorialmod.sound.ModSounds;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;

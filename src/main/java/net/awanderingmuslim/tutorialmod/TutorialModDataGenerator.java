@@ -1,9 +1,9 @@
-package net.kaupenjoe.tutorialmod;
+package net.awanderingmuslim.tutorialmod;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
-import net.kaupenjoe.tutorialmod.datagen.ModModelProvider;
-import net.kaupenjoe.tutorialmod.datagen.ModRegistryDataGenerator;
+import net.awanderingmuslim.tutorialmod.datagen.ModModelProvider;
+import net.awanderingmuslim.tutorialmod.datagen.ModRegistryDataGenerator;
 import net.minecraft.registry.RegistryBuilder;
 
 public class TutorialModDataGenerator implements DataGeneratorEntrypoint {
