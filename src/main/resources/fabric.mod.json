@@ -12,14 +12,14 @@
     "sources": "https://github.com/friedegg796/Muslimdiscs"
   },
   "license": "ARR",
-  "icon": "assets/tutorialmod/icon.png",
+  "icon": "assets/muslimdiscs/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.awanderingmuslim.tutorialmod.Muslimdiscs"
+      "net.awanderingmuslim.muslimdiscs.Muslimdiscs"
     ],
     "fabric-datagen": [
-      "net.awanderingmuslim.tutorialmod.MuslimdiscsDataGenerator"
+      "net.awanderingmuslim.muslimdiscs.MuslimdiscsDataGenerator"
     ],
     "client": [
     ],
@@ -27,7 +27,7 @@
     ]
   },
   "mixins": [
-    "tutorialmod.mixins.json"
+    "muslimdiscs.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.15.11",

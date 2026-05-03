@@ -1,8 +1,8 @@
-package net.awanderingmuslim.tutorialmod.datagen;
+package net.awanderingmuslim.muslimdiscs.datagen;
 
 import net.fabricmc.fabric.api.client.datagen.v1.provider.FabricModelProvider;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
-import net.awanderingmuslim.tutorialmod.item.ModItems;
+import net.awanderingmuslim.muslimdiscs.item.ModItems;
 import net.minecraft.client.data.BlockStateModelGenerator;
 import net.minecraft.client.data.ItemModelGenerator;
 import net.minecraft.client.data.Models;

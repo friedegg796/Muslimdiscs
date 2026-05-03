@@ -2,7 +2,7 @@
   "eid_takbir": {
     "sounds": [
       {
-        "name": "tutorialmod:eid_takbir",
+        "name": "muslimdiscs:eid_takbir",
         "stream": true
       }
     ]

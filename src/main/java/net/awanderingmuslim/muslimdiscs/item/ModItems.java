@@ -1,7 +1,7 @@
-package net.awanderingmuslim.tutorialmod.item;
+package net.awanderingmuslim.muslimdiscs.item;
 
-import net.awanderingmuslim.tutorialmod.Muslimdiscs;
-import net.awanderingmuslim.tutorialmod.sound.ModSounds;
+import net.awanderingmuslim.muslimdiscs.Muslimdiscs;
+import net.awanderingmuslim.muslimdiscs.sound.ModSounds;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;

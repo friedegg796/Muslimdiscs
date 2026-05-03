@@ -1,4 +1,4 @@
-package net.awanderingmuslim.tutorialmod.mixin;
+package net.awanderingmuslim.muslimdiscs.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

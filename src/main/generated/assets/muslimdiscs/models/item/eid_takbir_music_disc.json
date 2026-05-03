@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "tutorialmod:item/eid_takbir_music_disc"
+    "layer0": "muslimdiscs:item/eid_takbir_music_disc"
   }
 }

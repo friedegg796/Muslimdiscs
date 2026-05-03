@@ -1,6 +1,6 @@
-package net.awanderingmuslim.tutorialmod.sound;
+package net.awanderingmuslim.muslimdiscs.sound;
 
-import net.awanderingmuslim.tutorialmod.Muslimdiscs;
+import net.awanderingmuslim.muslimdiscs.Muslimdiscs;
 import net.minecraft.block.jukebox.JukeboxSong;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;

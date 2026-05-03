@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.awanderingmuslim.tutorialmod.mixin",
+  "package": "net.awanderingmuslim.muslimdiscs.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
     "MuslimdiscsMixin"
