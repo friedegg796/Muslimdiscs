@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "muslimdiscs",
-  "version": "${version}",
+  "version": "1.0.0",
   "name": "Muslimdiscs",
   "description": "Use the Jukebox for more Islamic audios!",
   "authors": [
