@@ -5,10 +5,17 @@
 Use the Jukebox for more Islamic audios!
 
 
-As of now, it only adds a disc that plays the Eid Takbir, but I will add more inshaAllah
+As of now, it only adds a disc that plays the Eid Takbir, for 17 minutes and 7 seconds, but I will add more inshaAllah.
 
 ## I got a question/suggestion/problem
 Make an [issue](https://github.com/friedegg796/Muslimdiscs/issues), I'll check it inshaAllah.
+
+
+### How do I install this...
+
+On [Github](https://github.com/friedegg796/Muslimdiscs), you have to install zip, unzip it, open your terminal, cd into it, and then run <code>./gradlew build </code> (Requires Java), then look for the muslimdiscs jar file in build/libs of the unzipped folder.
+
+Or just, go to the [releases](https://github.com/friedegg796/Muslimdiscs/releases), pick the release you want, and install the muslimdiscs jar file, that also works.....
 
 ### Could I put your Mod into MY modpack/Use it in my video?
 Read the [License](https://github.com/friedegg796/Muslimdiscs?tab=License-1-ov-file)
