@@ -1,7 +1,7 @@
 package net.awanderingmuslim.muslimdiscs.item;
 
 import net.awanderingmuslim.muslimdiscs.Muslimdiscs;
-import net.awanderingmuslim.muslimdiscs.sound.ModSounds;
+import net.awanderingmuslim.muslimdiscs.sound.MuslimdiscsSounds;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -11,11 +11,11 @@ import net.minecraft.util.Identifier;
 
 import java.util.function.Function;
 
-public class ModItems {
+public class MuslimdiscsItems {
 
 
     public static final Item EID_TAKBIR_MUSIC_DISC = registerItem("eid_takbir_music_disc",
-            setting -> new Item(setting.jukeboxPlayable(ModSounds.EID_TAKBIR_KEY).maxCount(1)));
+            setting -> new Item(setting.jukeboxPlayable(MuslimdiscsSounds.EID_TAKBIR_KEY).maxCount(1)));
 
 
     private static Item registerItem(String name, Function<Item.Settings, Item> function) {

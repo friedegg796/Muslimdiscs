@@ -1,9 +1,9 @@
 package net.awanderingmuslim.muslimdiscs;
 
 import net.fabricmc.api.ModInitializer;
-import net.awanderingmuslim.muslimdiscs.item.ModItemGroups;
-import net.awanderingmuslim.muslimdiscs.item.ModItems;
-import net.awanderingmuslim.muslimdiscs.sound.ModSounds;
+import net.awanderingmuslim.muslimdiscs.item.MuslimdiscsItemGroups;
+import net.awanderingmuslim.muslimdiscs.item.MuslimdiscsItems;
+import net.awanderingmuslim.muslimdiscs.sound.MuslimdiscsSounds;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -13,10 +13,10 @@ public class Muslimdiscs implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        ModItemGroups.registerItemGroups();
+        MuslimdiscsItemGroups.registerItemGroups();
 
-        ModItems.registerModItems();
-        ModSounds.registerSounds();
+        MuslimdiscsItems.registerModItems();
+        MuslimdiscsSounds.registerSounds();
 
 
     }

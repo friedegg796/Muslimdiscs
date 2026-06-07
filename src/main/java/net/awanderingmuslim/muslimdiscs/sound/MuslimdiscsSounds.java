@@ -9,7 +9,7 @@ import net.minecraft.registry.RegistryKeys;
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.util.Identifier;
 
-public class ModSounds {
+public class MuslimdiscsSounds {
 
     public static final SoundEvent EID_TAKBIR = registerSoundEvent("eid_takbir");
     public static final RegistryKey<JukeboxSong> EID_TAKBIR_KEY =

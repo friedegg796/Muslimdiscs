@@ -2,13 +2,13 @@ package net.awanderingmuslim.muslimdiscs.datagen;
 
 import net.fabricmc.fabric.api.client.datagen.v1.provider.FabricModelProvider;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
-import net.awanderingmuslim.muslimdiscs.item.ModItems;
+import net.awanderingmuslim.muslimdiscs.item.MuslimdiscsItems;
 import net.minecraft.client.data.BlockStateModelGenerator;
 import net.minecraft.client.data.ItemModelGenerator;
 import net.minecraft.client.data.Models;
 
-public class ModModelProvider extends FabricModelProvider {
-    public ModModelProvider(FabricDataOutput output) {
+public class MuslimdiscsModelProvider extends FabricModelProvider {
+    public MuslimdiscsModelProvider(FabricDataOutput output) {
         super(output);
     }
 
@@ -18,7 +18,7 @@ public class ModModelProvider extends FabricModelProvider {
 
     @Override
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
-        itemModelGenerator.register(ModItems.EID_TAKBIR_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(MuslimdiscsItems.EID_TAKBIR_MUSIC_DISC, Models.GENERATED);
 
 
     }
