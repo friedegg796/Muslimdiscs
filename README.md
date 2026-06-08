@@ -42,7 +42,7 @@ YouTube CC-BY
 
 https://www.youtube.com/watch?v=UBW9oWc1FNU
 
-Video was made into an OGG audio file, and was shortened to about 17 Minutes and 7 seconds.
+Video was made into a mono OGG audio file, and was shortened to about 8 Minutes and 51 seconds.
 
 Careful with the above video's channel, this specific video was fine but I fear there may be not-so-good content there, and make sure to bring an Adblocker.
 
