@@ -18,5 +18,7 @@ public class MuslimdiscsTagProvider extends FabricTagProvider.ItemTagProvider {
         valueLookupBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS)
                 .add(MuslimdiscsItems.EID_TAKBIR_MUSIC_DISC);
 
+        valueLookupBuilder(ItemTags.DUPLICATES_ALLAYS)
+                .add(MuslimdiscsItems.EID_TAKBIR_MUSIC_DISC);
     }
 }

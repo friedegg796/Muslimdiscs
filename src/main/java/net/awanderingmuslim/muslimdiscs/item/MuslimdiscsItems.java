@@ -25,6 +25,6 @@ public class MuslimdiscsItems {
 
     public static void registerModItems() {
         Muslimdiscs.LOGGER.info("Registering Mod Items for " + Muslimdiscs.MOD_ID);
-
+          
     }
 }

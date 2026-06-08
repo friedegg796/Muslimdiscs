@@ -21,7 +21,7 @@ repositories {
 
 fabricApi {
     configureDataGeneration() {
-        client = true
+        client = false // so apparently turning this on makes our life harder????????
     }
 }
 

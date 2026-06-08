@@ -18,6 +18,5 @@ public class Muslimdiscs implements ModInitializer {
         MuslimdiscsItems.registerModItems();
         MuslimdiscsSounds.registerSounds();
 
-
     }
 }

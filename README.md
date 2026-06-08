@@ -5,7 +5,9 @@
 Use the Jukebox for more Islamic audios!
 
 
-As of now, it only adds a disc that plays the Eid Takbir, for 17 minutes and 7 seconds, but I will add more inshaAllah.
+As of now, it only adds a disc that plays the Eid Takbir, for 8 minutes and 51 seconds, but I will add more inshaAllah.
+
+Also, you can use the 
 
 ## I got a question/suggestion/problem
 Make an [issue](https://github.com/friedegg796/Muslimdiscs/issues), I'll check it inshaAllah.
@@ -30,7 +32,7 @@ YouTube CC-BY
 
 https://www.youtube.com/watch?v=UBW9oWc1FNU
 
-Video was made into an OGG audio file, and was shortened to about 17 Minutes and 7 seconds.
+Video was made into an OGG audio file, and was shortened to about 8 Minutes and 51 seconds.
 
 Careful with the above video's channel, this specific video was fine but I fear there may be not-so-good content on
 there.

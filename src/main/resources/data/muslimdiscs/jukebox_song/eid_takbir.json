@@ -3,6 +3,6 @@
   "description": {
     "translate": "item.muslimdiscs.eid_takbir_music_disc.desc"
   },
-  "length_in_seconds": 1027,
+  "length_in_seconds": 531,
   "sound_event": "muslimdiscs:eid_takbir"
 }
