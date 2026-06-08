@@ -7,7 +7,10 @@ Use the Jukebox for more Islamic audios!
 
 As of now, it only adds a disc that plays the Eid Takbir, for 8 minutes and 51 seconds, but I will add more inshaAllah.
 
-Also, you can use the 
+Also, you can use the Eid Takbir disc to duplicate Allays.
+
+
+All discs are obtainable from a skeleton shooting a creeper.
 
 ## I got a question/suggestion/problem
 Make an [issue](https://github.com/friedegg796/Muslimdiscs/issues), I'll check it inshaAllah.
